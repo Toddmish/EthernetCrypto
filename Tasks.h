@@ -2,7 +2,7 @@
  * Tasks.h
  *
  *  Created on: Mar 23, 2021
- *      Author: jack
+ *      Author: Todian Mishtaku
  */
 
 #ifndef TASKS_H_
